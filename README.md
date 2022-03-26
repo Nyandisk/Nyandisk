@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nyandisk
-- 👀 I’m interested in Minecraft Spigot plugins, Java, C# and python.
-- 🌱 I’m currently learning about the Spigot API on Java
+- 👀 I’m interested in C#, Python, Unity, Networking.
+- 🌱 I’m currently learning about C# and Unity with networking.
 - 💞️ I’m looking to collaborate on future projects
-- 📫 My contact is Nyandisk#2034
+- 📫 My contact is nyandisk#4057
 
 <!---
 Nyandisk/Nyandisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
