@@ -2,9 +2,6 @@ hi
 
 what's up gamer
 
-i'm interested in any sort of game hacking, or game development to some degree
-oh or anything else with programming
-
 languages
 - C++ (learning for game hacking) 
 - C# (game development and other projects)
