@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Nyandisk
-- 👀 I’m interested in C#, Python, Unity, Networking.
-- 🌱 I’m currently learning about C# and Unity with networking.
-- 💞️ I’m looking to collaborate on future projects
-- 📫 My contact is nyandisk#4057
+hi
 
-<!---
-Nyandisk/Nyandisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+what's up gamer
+
+i'm interested in any sort of game hacking, or game development to some degree
+oh or anything else with programming
+
+languages
+- C++ (learning for game hacking) 
+- C# (game development and other projects)
+- Py (other projects)
+- Java (every 6.9 years ill decide i have to make a spigot plugin for no apparent reason)
+
+ok thats all gamers
+oh yeah heres my discord for no apparent reason (again)
+
+nyandisk#3676
