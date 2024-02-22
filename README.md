@@ -1,6 +1,6 @@
 hi
 
-17 from EE
+17
 
 i am are am are you are am i are you am
 
